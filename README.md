@@ -9,12 +9,14 @@
 ## 講義スケジュール(2019年度）
 * 12/2　ジオメディアとは？及び、グラレコ概要 by 関治之先生
 * 12/9　グラレコ入門 by 和田先生
-* 12/16　[革新的なことをしたいなら、ナウイストになろう](https://www.ted.com/talks/joi_ito_want_to_innovate_become_a_now_ist?language=ja) by Joi Ito 
+* 12/16　[革新的なことをしたいなら、ナウイストになろう](https://www.ted.com/talks/joi_ito_want_to_innovate_become_a_now_ist?language=ja) by Joi Ito, 
   [コーディングでより良い政府を作る](https://www.youtube.com/watch?v=n4EhJ898r-k) by ジェニファー・パルカ
 * 1/6　休講
 * 1/14　[Web時代における地理空間技術]、及び演習 by 国土地理院 藤村さん
-* 1/21 [Whys of Where](https://www.youtube.com/watch?v=cBEPZ1Yoirg) by Joseph Kerski 
+* 1/21 [Whys of Where](https://www.youtube.com/watch?v=cBEPZ1Yoirg) by Joseph Kerski, 
   [Modern cartography and the 3D Map Revolution](https://www.youtube.com/watch?v=kJOOoLzj-W8&t=1s) by Rachel Hwang
+
+各自が提出したグラレコについては、[こちら](https://github.com/furuhashilab/grareco/tree/master/temp?fbclid=IwAR0hHaVlxR6VbBaMb-Ei5y5hwAv6R6dR0WZO15lTIBsx9rGZATbvZ2nRaRg) にアップされています。
 
 ## 講義スケジュール(2018年度）
 * 11/19　ジオメディアとは？ by 関治之先生
@@ -24,8 +26,6 @@
 * 12/17　[ウェブ時代における空間情報技術](https://github.com/gsc-aoyama/geomedia4gsc/tree/master/KozoKamada) by 鎌田高造さん（国土地理院）
 * 1/7　地図調整Part2 by 近藤賀誉さん＆鈴木一郎さん（東京カートグラフィック株式会社）
 * 1/21 IoT/Makersコミュニティ by 水田さん
-
-各自が提出したグラレコについては、[こちら](https://github.com/furuhashilab/grareco/tree/master/temp?fbclid=IwAR0hHaVlxR6VbBaMb-Ei5y5hwAv6R6dR0WZO15lTIBsx9rGZATbvZ2nRaRg) にアップされています。
 
 ## 講義スケジュール(2017年度）
 
