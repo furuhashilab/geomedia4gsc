@@ -5,6 +5,17 @@
 * 毎回登場するゲストの話をグラフィックレコーディング手法によって整理しまとめる。
 * 最終課題として、ジオメディア全般を俯瞰した模造紙サイズのグラフィックレコーディング＆インフォグラフィックスを完成させる
 
+
+## 講義スケジュール(2019年度）
+* 12/2　ジオメディアとは？及び、グラレコ概要 by 関治之先生
+* 12/9　グラレコ入門 by 和田先生
+* 12/16　[革新的なことをしたいなら、ナウイストになろう](https://www.ted.com/talks/joi_ito_want_to_innovate_become_a_now_ist?language=ja) by Joi Ito 
+  [コーディングでより良い政府を作る](https://www.youtube.com/watch?v=n4EhJ898r-k) by ジェニファー・パルカ
+* 1/6　休講
+* 1/14　[Web時代における地理空間技術]、及び演習 by 国土地理院 藤村さん
+* 1/21 [Whys of Where](https://www.youtube.com/watch?v=cBEPZ1Yoirg) by Joseph Kerski 
+  [Modern cartography and the 3D Map Revolution](https://www.youtube.com/watch?v=kJOOoLzj-W8&t=1s) by Rachel Hwang
+
 ## 講義スケジュール(2018年度）
 * 11/19　ジオメディアとは？ by 関治之先生
 * 11/26　[グラレコ入門](https://github.com/gsc-aoyama/geomedia4gsc/tree/master/azumiwada)＋[まちづくり・空想地図](https://github.com/gsc-aoyama/geomedia4gsc/tree/master/TakayukiImaizumi) by 和田あづみさん＆今和泉隆行さん
