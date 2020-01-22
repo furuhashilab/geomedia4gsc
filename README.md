@@ -25,6 +25,8 @@
 * 1/7　地図調整Part2 by 近藤賀誉さん＆鈴木一郎さん（東京カートグラフィック株式会社）
 * 1/21 IoT/Makersコミュニティ by 水田さん
 
+各自が提出したグラレコについては、[こちら](https://github.com/furuhashilab/grareco/tree/master/temp?fbclid=IwAR0hHaVlxR6VbBaMb-Ei5y5hwAv6R6dR0WZO15lTIBsx9rGZATbvZ2nRaRg) にアップされています。
+
 ## 講義スケジュール(2017年度）
 
 * 11/13　グラレコ入門 by 和田あずみさん 【プレ・古橋研ゼミで実施】
